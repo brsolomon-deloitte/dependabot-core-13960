@@ -7,3 +7,4 @@ requires-python = ">=3.14"
 dependencies = [
     "httpx>=0.28",
 ]
+license-files = ["LICENSE.txt"]
